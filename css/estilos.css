@@ -10,7 +10,7 @@ li{
     float: left;
 }
 li a{
-    /*display: ;*/
+    display: block;
     color: #CCD3D9;
     text-align: center;
     padding: 15px;
