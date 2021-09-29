@@ -1,24 +1,34 @@
 ul{
     list-style-type: none;
-    background-color: #155593;
+    
     overflow: hidden;
     margin: 0px;
-    padding: 1px;
+    padding: 0px;
+   
+    font-kerning:normal ; letter-spacing: 0.6pt;
 }
 
 li{
     float: left;
+    background-color: #3366CC;
+    
+    
+    
 }
 li a{
     display: block;
-    color: #CCD3D9;
+    color: #ffffff;
     text-align: center;
     padding: 15px;
     text-decoration: none;
+    
+    
 }
 
 li a:hover{
     
-    background-color: #CCD3D9;
-    color:#155593 ;
+    background-color: #CCD3D9; font-weight: bold; 
+    color:#003399 ;
+    padding: 15px 9px;
+    
 }
