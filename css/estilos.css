@@ -19,7 +19,7 @@ li a{
     display: block;
     color: #ffffff;
     text-align: center;
-    padding: 15px;
+    padding: 13px;
     text-decoration: none;
     
     
@@ -29,6 +29,6 @@ li a:hover{
     
     background-color: #CCD3D9; font-weight: bold; 
     color:#003399 ;
-    padding: 15px 9px;
+    padding: 13px 9px;
     
 }
