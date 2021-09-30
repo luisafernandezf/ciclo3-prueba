@@ -5,5 +5,19 @@
     color: #312B57;
 }
 .miColorBoton{
-    color: #BFB415;
+    color: #fff;
+    background-color: #BFB415;
+    border-color: #BFB415;
+}
+.test{
+    background-color: cyan;
+}
+.scroll{
+    overflow: hidden;
+}
+.imagenUsuario{
+    height: 500px;
+}
+.imagenTecnico{
+    height: 200px;
 }
