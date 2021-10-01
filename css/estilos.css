@@ -4,20 +4,19 @@
 .micolorLetras{
     color: #312B57;
 }
-.miColorBoton{
-    color: #fff;
+.miBoton{
     background-color: #BFB415;
-    border-color: #BFB415;
-}
-.test{
-    background-color: cyan;
+    border: #BFB415;
+    color: #312B57;
+    padding: 10px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 3px 2px;
+    cursor: pointer;
+    border-radius: 15%;
 }
 .scroll{
     overflow: hidden;
-}
-.imagenUsuario{
-    height: 500px;
-}
-.imagenTecnico{
-    height: 200px;
 }
