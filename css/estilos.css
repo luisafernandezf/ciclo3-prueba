@@ -17,6 +17,9 @@
     cursor: pointer;
     border-radius: 15%;
 }
+.miColorNav{
+    background-color: #312B57;
+}
 .scroll{
     overflow: hidden;
 }
